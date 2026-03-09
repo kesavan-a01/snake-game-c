@@ -45,7 +45,7 @@ This project demonstrates key programming concepts such as **game loops, keyboar
 
 ## 📂 Project Structure
 
-snake-game
+snake-game-c 
 │
 ├── screenshots
 ├── README.md
